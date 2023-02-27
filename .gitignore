@@ -136,3 +136,5 @@ dmypy.json
 *.stl
 *.png
 *.svg
+
+DAQ_outputs/
